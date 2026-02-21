@@ -1,0 +1,6 @@
+cd "C:\Users\Acer\OneDrive\Documentos\erp-bb\erp-bb"
+git init
+git add .
+git commit -m "feat: sistema erp completo"
+git remote add origin https://github.com/cabfreitas1964/erp-bb.git
+git push -u origin main
